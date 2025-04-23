@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+html5lib
+openpyxl
+streamlit
+google-generativeai
+python-dotenv
